@@ -21,13 +21,13 @@ https://github.com/Saakshik15/To-do-list/assets/115942356/a6243865-0bfd-49a1-a58
 1. Clone this repository to your local machine using :
 
 ```
-  git clone https://github.com/your-username/todo-list-app.git
+  git clone https://github.com/saakshik15/to-do-list.git
 ```
 
 2. Navigate to the project directory 
 
 ```
-cd todo-list-app
+cd to-do-list
 ```
 3. install dependencies
 ```
